@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">covid</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">PHyttVhJC6tdv7M5_yjTIm_6p3g0oEuInwPKN</string>
+</resources>
